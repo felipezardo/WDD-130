@@ -40,4 +40,4 @@ In this assignment, you will apply your learning by creating a basic home page u
 13. Check your rendered page by right-clicking on the **index.html** file in the **Explorer** panel and selecting **"Open with Five Server"**, or by using the menu at the bottom of **VS Code**. **Five Server** will open the page in your default browser.  
 
 ### Complete Example  
-![Complete Example Page](images/2025-03-08%20101850.png)  
+![Complete Example Page](images/example.png)  
